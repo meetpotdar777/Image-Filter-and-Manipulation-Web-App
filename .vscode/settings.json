@@ -12,9 +12,14 @@
         "IMWRITE",
         "jsonify",
         "limg",
+        "mousedown",
+        "mousemove",
+        "mouseup",
         "ndarray",
+        "newaxis",
         "nparr",
         "numpy",
+        "ogrid",
         "thresholded",
         "thresholding"
     ]
