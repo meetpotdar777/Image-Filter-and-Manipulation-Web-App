@@ -2,12 +2,20 @@
     "cSpell.words": [
         "Binarize",
         "Cartoonify",
+        "clahe",
         "enctype",
+        "frombuffer",
         "Grayscale",
+        "imdecode",
+        "imencode",
+        "IMREAD",
+        "IMWRITE",
         "jsonify",
+        "limg",
         "ndarray",
         "nparr",
         "numpy",
-        "thresholded"
+        "thresholded",
+        "thresholding"
     ]
 }
